@@ -1,0 +1,49 @@
+c:\users\mike.wegner\documents\visual studio 2015\Projects\HardySave\HardySave\bin\Debug\HardySave.exe.config
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\bin\Debug\HardySave.exe
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\bin\Debug\HardySave.pdb
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.csprojResolveAssemblyReference.cache
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.Form1.resources
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.Properties.Resources.resources
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.csproj.GenerateResource.Cache
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.exe
+C:\Users\Mike.Wegner\Documents\Visual Studio 2015\Projects\HardySave\HardySave\obj\Debug\HardySave.pdb
+E:\HardySave\HardySave\bin\Debug\HardySave.exe.config
+E:\HardySave\HardySave\obj\Debug\HardySave.exe
+E:\HardySave\HardySave\obj\Debug\HardySave.pdb
+E:\HardySave\HardySave\bin\Debug\HardySave.exe
+E:\HardySave\HardySave\bin\Debug\HardySave.pdb
+E:\HardySave\HardySave\obj\Debug\HardySave.csprojResolveAssemblyReference.cache
+E:\HardySave\HardySave\obj\Debug\HardySave.Form1.resources
+E:\HardySave\HardySave\obj\Debug\HardySave.Properties.Resources.resources
+E:\HardySave\HardySave\obj\Debug\HardySave.csproj.GenerateResource.Cache
+G:\HardySave\HardySave\bin\Debug\HardySave.exe.config
+G:\HardySave\HardySave\bin\Debug\HardySave.exe
+G:\HardySave\HardySave\bin\Debug\HardySave.pdb
+G:\HardySave\HardySave\obj\Debug\HardySave.HardySafe.resources
+G:\HardySave\HardySave\obj\Debug\HardySave.Properties.Resources.resources
+G:\HardySave\HardySave\obj\Debug\HardySave.csproj.GenerateResource.Cache
+G:\HardySave\HardySave\obj\Debug\HardySave.exe
+G:\HardySave\HardySave\obj\Debug\HardySave.pdb
+G:\HardySave\HardySave\obj\Debug\HardySave.csprojResolveAssemblyReference.cache
+I:\HardySave\HardySave\bin\Debug\HardySave.exe.config
+I:\HardySave\HardySave\bin\Debug\HardySave.exe
+I:\HardySave\HardySave\bin\Debug\HardySave.pdb
+I:\HardySave\HardySave\obj\Debug\HardySave.csprojResolveAssemblyReference.cache
+I:\HardySave\HardySave\obj\Debug\HardySave.HardySafe.resources
+I:\HardySave\HardySave\obj\Debug\HardySave.Properties.Resources.resources
+I:\HardySave\HardySave\obj\Debug\HardySave.csproj.GenerateResource.Cache
+I:\HardySave\HardySave\obj\Debug\HardySave.exe
+I:\HardySave\HardySave\obj\Debug\HardySave.pdb
+I:\daten_oetherstick\HardySave\HardySave\bin\Debug\HardySave.exe.config
+I:\daten_oetherstick\HardySave\HardySave\obj\Debug\HardySave.exe
+I:\daten_oetherstick\HardySave\HardySave\obj\Debug\HardySave.pdb
+C:\Users\hardy\Desktop\HardySave\HardySave\bin\Debug\HardySave.exe.config
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.exe
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.pdb
+C:\Users\hardy\Desktop\HardySave\HardySave\bin\Debug\HardySave.exe
+C:\Users\hardy\Desktop\HardySave\HardySave\bin\Debug\HardySave.pdb
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.csprojResolveAssemblyReference.cache
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.HardySafe.resources
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.Properties.Resources.resources
+C:\Users\hardy\Desktop\HardySave\HardySave\obj\Debug\HardySave.csproj.GenerateResource.Cache
+I:\HardySave\HardySave\obj\Debug\HardySave.csproj.CoreCompileInputs.cache
